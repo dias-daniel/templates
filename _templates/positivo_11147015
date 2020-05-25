@@ -12,3 +12,5 @@ category: bulb
 type: RGBCCT
 standard: e27
 ---
+
+Need to use SetOption92 1 to CCT work correctly
